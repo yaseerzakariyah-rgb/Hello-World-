@@ -1,2 +1,2 @@
 # Hello-World-
-For practicing Githun
+For practicing Github
